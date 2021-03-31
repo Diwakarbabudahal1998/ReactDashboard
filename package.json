@@ -2,9 +2,6 @@
   "name": "@dashboard/react-admin-template",
   "version": "3.2.1",
   "description": " React Admin Template",
- 
-  
- 
   "dependencies": {
     "@coreui/chartjs": "^2.0.0",
     "@coreui/coreui": "^3.4.0",
@@ -40,7 +37,6 @@
     "eject": "react-scripts eject",
     "changelog": "auto-changelog --starting-version 3.0.0 --commit-limit false --hide-credit"
   },
-  
   "eslintConfig": {
     "extends": "react-app"
   },
